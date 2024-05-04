@@ -1,0 +1,5 @@
+save button clicked ->
+post request ->
+form submit ->
+note save in database ->
+note displayed

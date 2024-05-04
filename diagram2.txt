@@ -1,0 +1,3 @@
+link clicked ->
+get request ->
+display info
